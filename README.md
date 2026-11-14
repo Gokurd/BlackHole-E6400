@@ -5,7 +5,7 @@ BIOS A14 Legacy): base antiX/Debian 64-bit, estabilidad tipo Bodhi 5.1.0,
 escritorio mínimo (~250 MB en reposo) y look **«Windows Vista + Black Hole
 Matrix»**: cristal oscuro, orbe verde de Inicio, lluvia Matrix y agujero negro.
 
-![Fondo BlackHole](preview-blackhole.png)
+El fondo y el orbe se generan en el equipo con `bin/blackhole.py`.
 
 ## Requisitos
 
